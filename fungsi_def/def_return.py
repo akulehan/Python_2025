@@ -8,5 +8,5 @@ def pembagian (bilangan,pembagi):
 bilangan = int(input('Masukkan bilangan yang akan dibagi: '))
 pembagi = int(input('Masukkan bilangan pembagi: '))
 print ('Modulus atau sisa bagi :' ,pembagian (bilangan,pembagi))
-print ('Dapat juga ditulis: ', pembagian (bilangan,pembagi),'( mod', pembagi ,')')
+print ('Dapat juga ditulis: ', bilangan, ' = ' , pembagian (bilangan,pembagi),'( mod', pembagi ,')')
 print ('\n')
