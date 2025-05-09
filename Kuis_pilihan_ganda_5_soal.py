@@ -36,9 +36,7 @@ print('Apa lambang negara Indonesia?'
       '\n'
       'C. Elang'
       '\n'
-      'D. Rajawali'
-      '\n'
-      'Jawab dengan mengetik A, B, C, atau D ya!')
+      'D. Rajawali')
 jawaban2 = input('Jawabanmu: ')
 if jawaban2 == 'B' or jawaban2 == 'b':
    print('Jawabanmu Benar')
@@ -55,9 +53,7 @@ print('Apa ibu kota negara Indonesia?'
       '\n'
       'C. Jakarta'
       '\n'
-      'D. Yogyakarta'
-      '\n'
-      'Jawab dengan mengetik A, B, C, atau D ya!')
+      'D. Yogyakarta')
 jawaban3 = input('Jawabanmu: ')
 if jawaban3 == 'C' or jawaban3 == 'c':
    print('Jawabanmu Benar')
@@ -75,9 +71,7 @@ print('Siapakah pahlawan yang dikenal dengan julukan "Bapak Pendidikan"?'
       '\n'
       'C. Soekarno'
       '\n'
-      'D. Moh. Hatta'
-      '\n'
-      'Jawab dengan mengetik A, B, C, atau D ya!')
+      'D. Moh. Hatta')
 jawaban4 = input('Jawabanmu: ')
 if jawaban4 == 'A' or jawaban4 == 'a':
    print('Jawabanmu Benar')
@@ -95,9 +89,7 @@ print('Apa dasar negara Indonesia?'
       '\n'
       'C. Bhineka Tunggal Ika'
       '\n'
-      'D. Proklamasi'
-      '\n'
-      'Jawab dengan mengetik A, B, C, atau D ya!')
+      'D. Proklamasi')
 jawaban5 = input('Jawabanmu: ')
 if jawaban5 == 'B' or jawaban5 == 'b':
    print('Jawabanmu Benar')
