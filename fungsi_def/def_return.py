@@ -1,8 +1,7 @@
 print ('\n')
 print('Kita akan bantu menghitung sisa bagi')
 def pembagian (bilangan,pembagi):
-    hasilbagi = bilangan/pembagi
-    hasilbagibulat =int(hasilbagi)
+    hasilbagibulat = bilangan // pembagi #tanda // adalah pembagian bulat
     sisapembagian = bilangan - (hasilbagibulat*pembagi)
     return sisapembagian
 bilangan = int(input('Masukkan bilangan yang akan dibagi: '))
