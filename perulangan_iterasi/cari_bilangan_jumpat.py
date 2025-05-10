@@ -8,3 +8,9 @@ for i in n:
         setSn.add(Sn) #menyimpan Sn ke dalam himpunan
 Jumpat = len (setSn) #menghitung banyaknya anggota setSn
 print ('Jumpat : ',Jumpat)
+
+#Bonus Menghitung modulus (hasil bagi)
+a = 10
+b = 3
+hasil_modulus = a % b
+print("Sisa hasil bagi:", hasil_modulus)  # Output: 1
