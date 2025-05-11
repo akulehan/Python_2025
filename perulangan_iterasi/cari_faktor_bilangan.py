@@ -4,7 +4,7 @@ def k (a):
     for i in range (1,a+1):
         if a % i == 0:
             hasil.append(i)
-    return hasil
+    return hasil #return digunakan untuk mengembalikan nilai dari fungsi
 n = len(k(a))
 print (f'Faktor dari {a} adalah {k(a)}') #f' digunakan untuk format string
 print (f'Jumlah faktor dari {a} adalah {n}')
